@@ -1,0 +1,1 @@
+Use a dash to set off an abrupt break or interruption and to announce a long appositive or summary
