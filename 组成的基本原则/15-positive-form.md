@@ -1,0 +1,1 @@
+Put statements in positive form
