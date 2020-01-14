@@ -194,3 +194,48 @@ Chloe smells good, as a baby should.
 #### literal, literally
 
 经常错误地用于支持夸张(exaggeration)或比喻(metaphor)。
+
+#### loan, lend
+
+lend 用作动词, loan 用作名词
+
+```
+lend me your ears.
+the loan of your ears.
+```
+
+#### possess
+
+具有。这个词通常因为作者觉得它很 impressive 而被使用。使用这个词虽然没错，但是看起来怪怪的。
+
+```
+She possessed great courage.
+She had great courage
+```
+
+#### Prestigious
+
+声望很高的
+
+#### Secondly, thirdly, etc.
+
+除非你用 firstly 开头，否则更现代的写法是直接用 second, third...
+
+#### Shall, will
+
+在正式书写中，shall 由于第一人称, will 用于第二第三人称。除此之外，shall 和 will 还有一点感觉上的不同(我也不知道咋解释，请自行体会)
+
+```
+I shall drown; no one will save me. 我要淹死了，没人会来救我的。
+I will drown; no one shall save me. 我要自杀了，谁都别来救我。
+```
+
+#### The truth is..., The fact is
+
+A bad beginning for a sentence.如果你要表达某个真理或真相，直接 state it.不必在前面加这么一段。
+
+#### Utilize
+
+Prefer use
+
+
